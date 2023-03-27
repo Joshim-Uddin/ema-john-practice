@@ -1,0 +1,28 @@
+.showcase{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px auto;
+    width: 100vw;
+    height: 100vh;
+}
+.showcase-left{
+    text-align: left;
+}
+.showcase-left small{
+    color: #ff9900;
+}
+.showcase-left h1{
+    font-weight: bolder;
+    color: #1C2B35;
+    margin-bottom: 0;
+}
+.showcase-left p{
+    margin-top: 5px;
+}
+.showcase img{
+    height: 520px;
+    width: 421px;
+    border-radius: 8px;
+    box-shadow: -10px 10px 1px #FFE0B3;
+}

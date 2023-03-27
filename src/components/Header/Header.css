@@ -7,10 +7,10 @@
     height: 80px;
 }
 .nav img{
-    margin-left: 100px;
+    padding-left: 100px;
 }
 .menu-link{
-    margin-right: 90px;
+    padding-right: 90px;
 }
 .menu-link a{
     text-decoration: none;
