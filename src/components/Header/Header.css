@@ -5,6 +5,9 @@
     align-items: center;
     min-width: 100vw;
     height: 80px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 .nav img{
     padding-left: 100px;

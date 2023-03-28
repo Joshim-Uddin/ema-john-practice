@@ -4,7 +4,7 @@ import './Button.css'
 const Button = () => {
     return (
         <div>
-            <button>Shop Now</button>
+           <a href="/Shop"><button>Shop Now</button></a> 
         </div>
     );
 };
